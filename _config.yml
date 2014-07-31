@@ -5,6 +5,7 @@ description: "Yet another programmer guy's website."
 baseurl: ""
 url: "http://aiden.nibali.org"
 github_username:  anibali
+linkedin_username:  aiden-nibali/75/ba5/279
 
 # Build settings
 markdown: kramdown
