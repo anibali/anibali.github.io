@@ -4,8 +4,8 @@ email: aiden@nibali.org
 description: "Yet another programmer guy's website."
 baseurl: ""
 url: "http://aiden.nibali.org"
-github_username:  anibali
-linkedin_username:  aiden-nibali/75/ba5/279
+github_username: anibali
+linkedin_username: anibali
 
 # Build settings
 markdown: kramdown
