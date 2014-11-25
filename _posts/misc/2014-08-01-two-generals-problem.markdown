@@ -3,6 +3,7 @@ layout: post
 title:  "The Two Generals' Problem"
 date:   2014-08-01 08:38:21
 categories: misc
+tags: theory
 ---
 
 ### The problem

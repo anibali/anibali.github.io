@@ -1,0 +1,6 @@
+<span class="icon email">
+  <svg version="1.1" class="icon-svg-small" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+    <path fill="#000000" d="m 0,1.5156 0,0.5 0,11.9688 0,0.5 0.5,0 15,0 0.5,0 0,-0.5 0,-11.9688 0,-0.5 -0.5,0 -15,0 z m 3.90625,3 8.1875,0 L 8,8.6094 z M 3,4.9844 7.65625,9.6719 8,10.0156 8.375,9.6719 13,5.0156 l 0,6.4688 -10,0 z"/>
+  </svg>
+</span>
