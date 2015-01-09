@@ -5,6 +5,7 @@ date:   2014-08-01 08:38:21
 categories: misc
 tags: theory
 ---
+{% include JB/setup %}
 
 ### The problem
 
