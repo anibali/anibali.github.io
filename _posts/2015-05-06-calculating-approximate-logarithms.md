@@ -129,4 +129,14 @@ end
 
 The techniques described here can easily be extended to work with fixed-point
 arithmetic, which is a big improvement on hardware which does not have
-native support for floating-point numbers.
+native support for floating-point numbers. The lookup table can also be tweaked
+in such a way that the value returned represents a mid-point, giving better
+results on average (this will cause logs which normally return integers to be
+slightly off, which may matter depending on your use case).
+
+Finally, I discovered after writing this post that there's
+[an article](http://www.ebaytechblog.com/2015/05/01/fast-approximate-logarithms-part-i-the-basics/)
+about fast approximate logarithms on eBay Tech Blog. If you are using a CPU
+where floating point arithmetic is cheap, you may want to consider using a
+mathematical function similar to that described in the article (instead of a
+lookup table) for greater accuracy at the cost of speed.
