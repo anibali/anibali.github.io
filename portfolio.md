@@ -6,6 +6,27 @@ group: navigation
 ---
 {% include JB/setup %}
 
+## RatTrace
+
+RatTrace is the intelligent rat trap monitoring system which I developed for my
+final year undergraduate engineering project. It works by measuring rat bait
+levels and wirelessly reporting the results so that pest control experts don't
+need to physically check each trap on location.
+
+<div style="float: left; display: block; width: 40%;">
+  <a href="/assets/images/rattrace_in_trap.jpg">
+    <img style="height: 270px" src="/assets/images/rattrace_in_trap.jpg">
+  </a>
+</div>
+<div class="tablet-frame" style="width: 50%; float: right;">
+  <a href="/assets/images/rattrace_web_interface.png">
+    <img src="/assets/images/rattrace_web_interface.png">
+  </a>
+</div>
+<div style="clear:both;"></div>
+
+***
+
 ## 1000WAT website
 
 [1000WAT](http://1000wat.com.au) is a Thai food restaurant based in Melbourne's
@@ -25,7 +46,7 @@ jQuery and Twitter Bootstrap providing a good client-side user experience.
 </div>
 <div style="clear:both;"></div>
 
----
+***
 
 ## Self-balancing robot
 
@@ -39,7 +60,7 @@ and writing the embedded C code required to make it balance.
   </a>
 </div>
 
----
+***
 
 ## Seed-dropping robot
 
@@ -51,7 +72,13 @@ from a LiDAR and wheel encoders to determine an appropriate course.
 This project was developed by a team of students from La Trobe University, and
 was a finalist in the 2014 NI ARC competition.
 
----
+<div style="text-align: center">
+  <a href="/assets/images/seed_dropping_robot.jpg">
+    <img alt="Self-balancing robot" src="/assets/images/seed_dropping_robot.jpg" style="width: 40%;">
+  </a>
+</div>
+
+***
 
 ## Home Guardian
 
@@ -68,7 +95,7 @@ and won 1st place in Telstra's inaugral M2M University Challenge in 2013.
   </a>
 </div>
 
----
+***
 
 ## MediCom
 

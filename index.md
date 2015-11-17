@@ -17,7 +17,7 @@ for open source software. Some of my past works can be found on the
   <li>{% include icons/github %} github.com/<a href="https://github.com/{{ site.author.github }}">{{ site.author.github }}</a></li>
   <li>{% include icons/linkedin %} linkedin.com/in/<a href="http://www.linkedin.com/in/{{ site.author.github }}">{{ site.author.linkedin }}</a></li>
 </ul>
-    
+
 ## Latest posts
 
 <ul class="posts">
