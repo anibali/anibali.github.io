@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Hello world of assembly"
-description: ""
 category:
 tags: [nasm]
 ---

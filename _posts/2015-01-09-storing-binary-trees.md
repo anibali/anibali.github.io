@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Storing binary trees"
-description: ""
 category: 
 tags: []
 ---
