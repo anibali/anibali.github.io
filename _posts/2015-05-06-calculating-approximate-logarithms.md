@@ -1,22 +1,23 @@
 ---
 layout: post
 title: "Calculating approximate logarithms"
-description: ""
+description: >
+  Logarithms are surprisingly useful, but can be quite expensive to calculate.
+  In this post we explore an interesting method for approximating the value of
+  base 2 logarithms extremely quickly.
 category:
 tags: [theory]
 ---
-{% include JB/setup %}
 
-Logarithms are surprisingly useful, but can be quite expensive to calculate.
-However, in many use cases we don't actually require exact results - a
-logarithmic trend will suffice. One such case was encountered during an
+There are quite a few instances in which one may wish to place values on a
+logarithmic scale. One such case was encountered during an
 [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
-class at university where we wanted to display values on a logarithmic scale.
-It turns out that there are some neat tricks which make calculating approximate
-logs very efficient.
+class at university where we were asked to display the amplitude response of
+an FM radio frequency band. It turns out that there are some neat tricks which
+make calculating approximate logs very efficient in this kind of scenario.
 
-In this post I will outline an algorithm for calculating approximate base 2 logs
-quickly, focusing on an implementation for microprocessors and CPUs. Code
+Here I will outline an algorithm for calculating approximate base 2 logs
+quickly, focusing on an implementation for microprocessors. Code
 examples are in Ruby for ease of reading.
 
 ### Course grain

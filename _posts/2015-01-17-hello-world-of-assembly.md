@@ -5,7 +5,6 @@ description: ""
 category:
 tags: [nasm]
 ---
-{% include JB/setup %}
 
 I've found it surprisingly difficult to find current resources about learning
 assembly, particularly for 64-bit systems. In fact, many of the guides I found

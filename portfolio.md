@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Portfolio"
-description: ""
+permalink: "/portfolio/"
 group: navigation
 ---
-{% include JB/setup %}
 
 ## RatTrace
 
@@ -14,13 +13,13 @@ levels and wirelessly reporting the results so that pest control experts don't
 need to physically check each trap on location.
 
 <div style="float: left; display: block; width: 40%;">
-  <a href="/assets/images/rattrace_in_trap.jpg">
-    <img style="height: 270px" src="/assets/images/rattrace_in_trap.jpg">
+  <a href="/images/rattrace_in_trap.jpg">
+    <img style="height: 270px" src="/images/rattrace_in_trap.jpg">
   </a>
 </div>
 <div class="tablet-frame" style="width: 50%; float: right;">
-  <a href="/assets/images/rattrace_web_interface.png">
-    <img src="/assets/images/rattrace_web_interface.png">
+  <a href="/images/rattrace_web_interface.png">
+    <img src="/images/rattrace_web_interface.png">
   </a>
 </div>
 <div style="clear:both;"></div>
@@ -35,13 +34,13 @@ simple content management. Ruby on Rails was used on the server-side, with
 jQuery and Twitter Bootstrap providing a good client-side user experience.
 
 <div class="mobile-frame" style="width: 20%; float:left;">
-  <a href="/assets/images/1000wat_mobile.jpg">
-    <img src="/assets/images/1000wat_mobile.jpg">
+  <a href="/images/1000wat_mobile.jpg">
+    <img src="/images/1000wat_mobile.jpg">
   </a>
 </div>
 <div class="tablet-frame" style="width: 60%; float: right;">
-  <a href="/assets/images/1000wat_tablet.jpg">
-    <img src="/assets/images/1000wat_tablet.jpg">
+  <a href="/images/1000wat_tablet.jpg">
+    <img src="/images/1000wat_tablet.jpg">
   </a>
 </div>
 <div style="clear:both;"></div>
@@ -55,8 +54,8 @@ laying out a PCB using Altium Designer, soldering the manufactured circuit board
 and writing the embedded C code required to make it balance.
 
 <div style="text-align: center">
-  <a href="/assets/images/balancing_robot.jpg">
-    <img alt="Self-balancing robot" src="/assets/images/balancing_robot.jpg" style="width: 50%;">
+  <a href="/images/balancing_robot.jpg">
+    <img alt="Self-balancing robot" src="/images/balancing_robot.jpg" style="width: 50%;">
   </a>
 </div>
 
@@ -73,8 +72,8 @@ This project was developed by a team of students from La Trobe University, and
 was a finalist in the 2014 NI ARC competition.
 
 <div style="text-align: center">
-  <a href="/assets/images/seed_dropping_robot.jpg">
-    <img alt="Self-balancing robot" src="/assets/images/seed_dropping_robot.jpg" style="width: 40%;">
+  <a href="/images/seed_dropping_robot.jpg">
+    <img alt="Self-balancing robot" src="/images/seed_dropping_robot.jpg" style="width: 40%;">
   </a>
 </div>
 
@@ -90,8 +89,8 @@ This project was developed by a team of students from La Trobe University,
 and won 1st place in Telstra's inaugral M2M University Challenge in 2013.
 
 <div style="text-align: center">
-  <a href="/assets/images/home_guardian.jpg">
-    <img alt="Home Guardian device" src="/assets/images/home_guardian.jpg" style="width: 50%;">
+  <a href="/images/home_guardian.jpg">
+    <img alt="Home Guardian device" src="/images/home_guardian.jpg" style="width: 50%;">
   </a>
 </div>
 
@@ -107,7 +106,7 @@ This project was developed by a team of students from La Trobe University
 according to a brief from Ericsson Australia.
 
 <div style="text-align: center">
-  <a href="/assets/images/medicom.jpg">
-    <img alt="MediCom app" src="/assets/images/medicom.jpg" style="width: 50%;">
+  <a href="/images/medicom.jpg">
+    <img alt="MediCom app" src="/images/medicom.jpg" style="width: 50%;">
   </a>
 </div>
